@@ -24,8 +24,5 @@
     "ts-jest": "^29.2.3",
     "tsup": "^8.2.3",
     "typescript": "^5.5.4"
-  },
-  "dependencies": {
-    "base64url": "^3.0.1"
   }
 }
