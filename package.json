@@ -1,18 +1,16 @@
 {
   "name": "@falgunpal/jwt-helper-ts",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "1.0.1",
+  "description": "A Jwt Helper Functions Library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/**/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "jsonwebtoken": "^9.0.2"
-  },
-  "devDependencies": {
-    "@types/jsonwebtoken": "^9.0.6"
-  }
+  "license": "ISC"
 }
