@@ -1,6 +1,6 @@
 {
   "name": "@falgunpal/jwt-helper-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Jwt Helper Functions Library",
   "main": "dist/index.js",
   "module": "./dist/index.mjs",
