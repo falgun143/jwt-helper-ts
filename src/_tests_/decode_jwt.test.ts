@@ -1,6 +1,6 @@
 import { decode_jwt } from "../index";
 
-//Below token is valid for next 5 days(Starting from 25 Jul 2024, 8:34 PM) just for testing purposes.
+//Below tokens are valid for next 5 days(Starting from 25 Jul 2024, 8:34 PM) just for testing purposes.
 test("After decoding JWT ,It must be an object", () => {
   const secret = "secret";
   const token =
