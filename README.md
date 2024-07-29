@@ -1,6 +1,6 @@
 ![JWT](https://ik.imagekit.io/ably/ghost/prod/2019/05/Screenshot-2019-05-14-at-13.53.46.png?tr=w-1728,q-50)
 
-# JWT Helper Library
+# JWT Library
 
 A TypeScript library for encoding, decoding and validating JSON Web Tokens (JWTs) using the HS256 algorithm. This library includes functionality for encoding JWTs with a specified payload and secret, decoding JWTs to extract their contents, and validating JWTs.
 
