@@ -2,7 +2,7 @@
 
 # JWT Helper Library
 
-A TypeScript library for encoding and decoding JSON Web Tokens (JWTs) using the HS256 algorithm. This library includes functionality for encoding JWTs with a specified payload and secret, decoding JWTs to extract their contents, and validating JWTs.
+A TypeScript library for encoding, decoding and validating JSON Web Tokens (JWTs) using the HS256 algorithm. This library includes functionality for encoding JWTs with a specified payload and secret, decoding JWTs to extract their contents, and validating JWTs.
 
 ## Features
 
